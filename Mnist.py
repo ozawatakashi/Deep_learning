@@ -22,7 +22,7 @@ gpu_flag = 0
  
 
 batchsize = 100
-n_epoch = 20
+n_epoch = 5
  
 # MNISTデータをロード
 print ("load MNIST dataset")
